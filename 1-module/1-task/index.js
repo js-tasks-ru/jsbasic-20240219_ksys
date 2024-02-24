@@ -4,7 +4,6 @@ function factorial(n) {
     let i = 1
     while (i <= n) {
       fact = fact * i
-      console.log(fact)
       i++
     }
    return fact
