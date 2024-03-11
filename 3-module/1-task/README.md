@@ -16,5 +16,4 @@ function namify(user) {
 }
 
 let names = namify(user); // ['Вася', 'Петя', 'Маша']
-console.log(names)
 ```
