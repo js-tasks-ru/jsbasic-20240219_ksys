@@ -8,4 +8,3 @@ function makeFriendsList(friends) {
   })
   return elUl
 }
-makeFriendsList(friends)
